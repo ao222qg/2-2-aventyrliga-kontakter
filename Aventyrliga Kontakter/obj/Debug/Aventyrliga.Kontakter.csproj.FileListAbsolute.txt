@@ -1,0 +1,12 @@
+C:\Users\Anton\Desktop\Aventyrliga Kontakter\Aventyrliga Kontakter\bin\Aventyrliga Kontakter.dll.config
+C:\Users\Anton\Desktop\Aventyrliga Kontakter\Aventyrliga Kontakter\bin\Aventyrliga Kontakter.dll
+C:\Users\Anton\Desktop\Aventyrliga Kontakter\Aventyrliga Kontakter\bin\Aventyrliga Kontakter.pdb
+C:\Users\Anton\Desktop\Aventyrliga Kontakter\Aventyrliga Kontakter\obj\Debug\Aventyrliga Kontakter.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Aventyrliga Kontakter\Aventyrliga Kontakter\obj\Debug\Aventyrliga Kontakter.dll
+C:\Users\Anton\Desktop\Aventyrliga Kontakter\Aventyrliga Kontakter\obj\Debug\Aventyrliga Kontakter.pdb
+C:\Users\Anton\Desktop\Dump Folder\Aventyrliga Kontakter\Aventyrliga Kontakter\bin\Aventyrliga Kontakter.dll.config
+C:\Users\Anton\Desktop\Dump Folder\Aventyrliga Kontakter\Aventyrliga Kontakter\bin\Aventyrliga Kontakter.dll
+C:\Users\Anton\Desktop\Dump Folder\Aventyrliga Kontakter\Aventyrliga Kontakter\bin\Aventyrliga Kontakter.pdb
+C:\Users\Anton\Desktop\Dump Folder\Aventyrliga Kontakter\Aventyrliga Kontakter\obj\Debug\Aventyrliga Kontakter.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Dump Folder\Aventyrliga Kontakter\Aventyrliga Kontakter\obj\Debug\Aventyrliga Kontakter.dll
+C:\Users\Anton\Desktop\Dump Folder\Aventyrliga Kontakter\Aventyrliga Kontakter\obj\Debug\Aventyrliga Kontakter.pdb
